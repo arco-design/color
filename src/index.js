@@ -54,7 +54,7 @@ function getPresetColors() {
     '#dfdfdf',
     '#f6f6f6',
   ];
-  presetColors.gray.primary = presetColors.gray.light[6];
+  presetColors.gray.primary = presetColors.gray.light[5];
 
   return presetColors;
 }
